@@ -17,6 +17,9 @@
 - **Sensor Analog Out** → Voltage divider → **ADCINA3** (J3.26)  
 - **Voltage divider GND** → Board GND  
 
+![image](https://github.com/user-attachments/assets/caabd8d3-b999-4fad-9601-1dafb2b4d54a)
+
+
 # Build Instructions for TMS320F28379D
 
 ### Requirements
